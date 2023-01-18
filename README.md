@@ -1,8 +1,7 @@
-# prework-study-guide
-A study guide for course pre-work
-# Study Guide for Bootcamp Prework
+# Study Guide Webpage
 
-## This web app contains notes on the different topics covered in the prework portion of the bootcamp.
+## Description
+
 
 This web app was created to gather and sort the information shared during the bootcamp prework in a readable manner. It was created using HTML, CSS and JavaScript
 
